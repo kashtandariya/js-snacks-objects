@@ -2,10 +2,11 @@
 
 // Array originale con le stringhe
 let arrayOriginale = ["sole", "STELLE", "Luna"];
+console.log(arrayOriginale)
 
 //definire una funzione
 function formattaStringhe(arrayOriginale) {
-  // crea un nuovo array vuoto per memorizzare le stringhe formattate
+  // crea un nuovo array vuoto per memorizzare le stringhe formattsate
   let arrayFormattato = [];
 
   // ciclo for per iterare attraverso ogni elemento dell'array originale
